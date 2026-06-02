@@ -1,0 +1,8 @@
+# Source/dev assets — not part of the deployed site
+pic*.jpeg
+pic*.png
+pic#*.jpeg
+pic#*.png
+Screenshot*.png
+serenity-pilates (12).html
+.vercel

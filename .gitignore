@@ -6,3 +6,6 @@ pic#*.png
 Screenshot*.png
 serenity-pilates (12).html
 .vercel
+
+# Claude worktrees — not part of the site
+.claude/worktrees/
